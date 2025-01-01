@@ -5,7 +5,7 @@ import { FullMovie } from "../../core/entities/movie.entity";
 import { Cast } from "../../core/entities/cast.entity";
 
 export const useMovie = (movieId: number) => {
-  const [isloading, setIsloading] = useState(true);
+  const [isLoading, setIsloading] = useState(true);
   const [movie, setMovie] = useState<FullMovie>();
   const [cast, setCast] = useState<Cast[]>();
   useEffect(() => {
@@ -27,7 +27,7 @@ export const useMovie = (movieId: number) => {
     setIsloading(false);
   };
   return {
-    isloading,
+    isLoading,
     movie,
     cast,
   };
