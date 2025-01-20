@@ -15,4 +15,9 @@
 ## Cómo empezar 🚀  
 1. Clona este repositorio:  
    ```bash  
-   git clone https://github.com/yerytech/MovieApp-RN.git  
+   git clone https://github.com/yerytech/MovieApp-RN.git
+
+## Screenshots 
+![Pantalla principal](https://github.com/yerytech/MovieApp-RN/blob/main/Screenshot_1737403902.png?raw=true)
+![Pantalla secundaria](https://github.com/yerytech/MovieApp-RN/blob/main/Screenshot_1737403910.png?raw=true)
+![Pantalla de detalles](https://github.com/yerytech/MovieApp-RN/blob/main/Screenshot_1737403916.png?raw=true)
